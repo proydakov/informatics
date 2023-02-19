@@ -1,0 +1,12 @@
+big.txt
+.meta
+
+*.out
+
+*.obj
+*.exe
+
+solution
+gen
+
+core
